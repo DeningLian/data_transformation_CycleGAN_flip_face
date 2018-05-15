@@ -1,0 +1,1 @@
+python3 nori/sender.py --out_pipe=vggface2.hza.x4
